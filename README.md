@@ -128,8 +128,6 @@ To deploy the project on Hugging Face Spaces, follow these steps:
   docker build -t musheff-api .
   ```
 
-````
-
 - Run a container based on the image:
 
   ```bash
