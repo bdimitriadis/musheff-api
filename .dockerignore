@@ -1,0 +1,9 @@
+.git
+.gitattributes
+.coverage
+.coverage.*
+.env
+.venv
+.aws
+*.log
+*.md
